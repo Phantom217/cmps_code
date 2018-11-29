@@ -2,7 +2,7 @@
  *  ReadFile.java
  *
  *
- *  Tyler Oalman
+ *  @author Tyler Oalman
  *  @version 2.0 2018-10-11
  */
 
