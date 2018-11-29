@@ -2,7 +2,7 @@
  *  HashMe.java
  *
  *
- *  Tyler Oalman
+ *  @author Tyler Oalman
  *  @version 2.5.5 2018-11-20
  */
 
