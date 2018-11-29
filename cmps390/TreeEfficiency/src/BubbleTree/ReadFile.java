@@ -36,7 +36,7 @@ public class ReadFile
 		count++;
 		scan.nextInt();
 	    }
-	    System.out.println(count);
+	/*     System.out.println(count); */
 
 	    nums = new int[count];
 
