@@ -97,12 +97,14 @@ public class Main
 	}
 	public static void printCommandPrompt()
 	{
-		System.out.println("\nEnter one of the following commands.");
-		System.out.println("1 - Display list");
-		System.out.println("2 - Request length of list");
-		System.out.println("3 - Delete a name from the list");
-		System.out.println("4 - Request a length of the section of the list(by letter)");
-		System.out.println("5 - Request names in the list starting with a certain letter");
-		System.out.println("6 - Exit.\n");
+		System.out.println("\n####################################################################");
+		System.out.println("##  Enter one of the following commands.                          ##");
+		System.out.println("##  1 - Display list                                              ##");
+		System.out.println("##  2 - Request length of list                                    ##");
+		System.out.println("##  3 - Delete a name from the list                               ##");
+		System.out.println("##  4 - Request a length of the section of the list(by letter)    ##");
+		System.out.println("##  5 - Request names in the list starting with a certain letter  ##");
+		System.out.println("##  6 - Exit.                                                     ##");
+		System.out.println("####################################################################\n");
 	}
 }
