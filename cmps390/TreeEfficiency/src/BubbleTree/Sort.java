@@ -42,10 +42,12 @@ public class Sort
 
     public static void displayPrompt()
     {
-	System.out.println("\nEnter one of the following:");
-	System.out.println("1 - Tree Sort");
-	System.out.println("2 - Bubble Sort");
-	System.out.println("3 - Exit\n");
+	System.out.println("\n###################################");
+	System.out.println("##  Enter one of the following:  ##");
+	System.out.println("##  1 - Tree Sort                ##");
+	System.out.println("##  2 - Bubble Sort              ##");
+	System.out.println("##  3 - Exit                     ##");
+	System.out.println("###################################\n");
     }
 
     public static void treeSort()
