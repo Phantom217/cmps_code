@@ -2,8 +2,8 @@
  *  ReadFile.java
  *
  *
- *  Tyler Oalman
- *  @version 3.0.0 2018
+ *  @author Tyler Oalman
+ *  @version 3.0.0 2018-11-27
  */
 
 package BubbleTree;

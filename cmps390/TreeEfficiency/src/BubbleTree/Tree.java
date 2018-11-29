@@ -2,8 +2,8 @@
  *  Tree.java
  *
  *
- *  Tyler Oalman
- *  @version 2.0.0 2018
+ *  @author Tyler Oalman
+ *  @version 2.0.0 2018-11-27
  */
 
 package BubbleTree;
